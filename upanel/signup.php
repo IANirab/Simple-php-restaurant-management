@@ -1,7 +1,7 @@
-<script>
+<!-- <script>
     alert('Sorry to say, Registration System is currently Disabled By Admin !!');
     window.location.href='../index.php';
-</script>
+</script> -->
 <?php include "../config/config.php"; ?>
 <?php include "../lib/Database.php"; ?>
 <?php
