@@ -6,8 +6,8 @@
   $mail->Port=587;
   $mail->SMTPAuth=true;
   $mail->SMTPSecure='tls';
-  $mail->Username='kingb5861@gmail.com';
-  $mail->Password='01712611078';
+  $mail->Username=''; // mail here
+  $mail->Password='';//mail pass here
 
 
 
